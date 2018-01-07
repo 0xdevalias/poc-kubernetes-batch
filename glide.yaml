@@ -1,0 +1,4 @@
+package: github.com/0xdevalias/poc-kubernetes-batch
+import:
+- package: k8s.io/client-go
+  version: v5.0.1
